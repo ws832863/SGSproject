@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+/data
+READ.md
+/bin
+.gitignore~
+

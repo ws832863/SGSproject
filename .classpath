@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/je-3.3.98.jar"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/jung-graph-impl-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/sgs-server-0.10.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/sgs-server-api-0.10.2.1.jar" sourcepath="/home/parallels/sgs-server-dist-0.10.2.1/doc"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/sgs-server-internal-api-0.10.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/sgs-shared-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/parallels/sgs-server-dist-0.10.2.1/lib/db-4.5.20.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
